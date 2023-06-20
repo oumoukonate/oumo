@@ -1,2 +1,2 @@
 # oumo
-java script
+javascript
